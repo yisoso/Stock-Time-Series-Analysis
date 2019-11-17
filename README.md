@@ -55,6 +55,9 @@ The million dollar question is: can you develop a model that can beat the market
 This Data description is adapted from the dataset named 'S&P 500 Stock data'.
 This data is scrapped from Google finance using the python library 'pandas_datareader'. Special thanks to Kaggle, Github and the Market.
 
+### Update
+Thanks for providing the data and idea. I implement the ARIMA model used python, and the code has been updated. There may be some defects in the code, please update and correct.
+
   [1]: https://github.com/szrlee/Stock-Time-Series-Analysis/blob/master/data_collection.ipynb
   [2]: https://github.com/szrlee/Stock-Time-Series-Analysis/blob/master/ARIMA_R/script.Rmd
   [3]: https://www.kaggle.com/szrlee/stock-time-series-20050101-to-20171231
